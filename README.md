@@ -1,5 +1,3 @@
-Sure, here's an interactive README file for your Flutter weather app on GitHub:
-
 # Flutter Weather App
 ---
 
